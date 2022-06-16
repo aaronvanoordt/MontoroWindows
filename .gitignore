@@ -1,0 +1,6 @@
+.venv/
+venv/
+env/
+migrations/
+.DS_Store
+__pycache__/
